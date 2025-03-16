@@ -1,0 +1,2 @@
+net.walid.dao.DaoImpl
+net.walid.metier.MetierImpl
